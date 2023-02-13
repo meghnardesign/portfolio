@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Digital Garden
-email: hello@hypha.coop
-description: >- # this means to ignore newlines until "baseurl:"
-  A digital garden or public notebook for The Bentway’s Digital and/as Public Space Micro-Residency.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://digitalgarden.hypha.coop" # the base hostname & protocol for your site, e.g. http://example.com
-author: Hypha Worker Co-operative
+title: MYCELIUM FUND
+email: 
+description: The following set of ecological principles serve to guide the design and implementation of the Mycelium Fund. This experimental granting fund explores the possibilities of a self-distributing financing system and is informed by mechanisms of resource valuation and distribution found in ecological communities, particularly those deep beneath the ground.
+  
+baseurl: 
+url: 
+author: 
 
 # Layout
 excerpt_separator: "<!--more-->"

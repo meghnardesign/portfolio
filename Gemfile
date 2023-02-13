@@ -33,3 +33,5 @@ gem 'wdm', '~> 0.1.1', platforms: %i[mingw x64_mingw mswin]
 gem 'html-proofer', '~> 3.19'
 
 gem 'rake', '~> 13.0'
+
+gem "webrick", "~> 1.8"

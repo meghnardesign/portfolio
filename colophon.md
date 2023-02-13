@@ -2,10 +2,15 @@
 layout: page
 title: Colophon
 ---
+[edited]
 
-This micro-site is part of [Bentway's](/bentway) _Digital and/as Public Space_ initiative exploring the new reality of hybrid realms that blend digital and physical spaces.
+This micro-site was borrowed and edited from [Bentway's _Digital and/as Public Space_ initiative website](https://www.thebentway.ca/stories/digital-and-as-public-space/), which was developed and designed by [Hypha Coop](https://hypha.coop/). 
 
-[Hypha](/hypha) is a worker co-operative based in Toronto which helps organizations and communities redesign their relationships with digital technology.
+Hypha is a worker co-operative based in Toronto which helps organizations and communities redesign their relationships with digital technology. 
+
+The _Digital and/as Public Space_ initiative explores the new reality of hybrid realms that blend digital and physical spaces.
+
+The original source code for the project can be found [here](https://github.com/hyphacoop/digitalgarden).
 
 ## Typography
 {:.anthony.f1.normal.mb3}
