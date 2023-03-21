@@ -7,4 +7,4 @@ A mushroom is the fruit of a  mycelium network. Mushrooms only form once this un
 
 Inspired by [Adrienne Maree Brown’s Emergent Strategy principles](https://www.are.na/block/1857657).
 
-Related Notes: [[Reproduction]], [[Holobionts]], [[Networked Care]], [[Probe, Sense & Adapt Growth Strategy]]
+Related Notes: [[Reproduction]], [[Holobionts]], [[Networked Care]], [[Probe, Sense & Adapt]]
