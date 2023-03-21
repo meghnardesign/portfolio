@@ -30,5 +30,7 @@ As we dug deeper, we also entered other domains, learning how neurons in the bra
 
 The design of this fund is one small drop within a larger changing tide and is based on insights our team has uncovered through this research process. Stage 2 of the project will be mapping these principles onto the design of the fund and we expect to select our first cohort of grantees in summer 2023. 
 
+Explore the principles →
+
 — Rithikha Rajamohan, *Research Lead*
 [New Constellations](https://newconstellations.co/)
