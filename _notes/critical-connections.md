@@ -1,5 +1,5 @@
 ---
-title: Critical Connections vs. Critical Mass
+title: Critical Connections
 status: 🟡
 ---
 
