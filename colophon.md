@@ -2,9 +2,8 @@
 layout: page
 title: Colophon
 ---
-[edited]
 
-This micro-site was borrowed and edited from [Bentway's _Digital and/as Public Space_ initiative website](https://www.thebentway.ca/stories/digital-and-as-public-space/), which was developed and designed by [Hypha Coop](https://hypha.coop/). 
+This micro-site was edited from [Bentway's _Digital and/as Public Space_ initiative website](https://www.thebentway.ca/stories/digital-and-as-public-space/), which was developed and designed by [Hypha Coop](https://hypha.coop/). 
 
 Hypha is a worker co-operative based in Toronto which helps organizations and communities redesign their relationships with digital technology. 
 
