@@ -28,6 +28,8 @@ There’s a saying that all good design borrows from nature. Today, we see shift
 
 The design of this fund is one small drop within a larger changing tide and is based on insights our team has uncovered through this research process. Stage 2 of the project will be mapping these principles onto the design of the fund and we expect to select our first cohort of grantees in summer 2023. 
 
+— Rithikha Rajamohan, Research Lead
+
 
 
 
