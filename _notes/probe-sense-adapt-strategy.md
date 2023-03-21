@@ -1,5 +1,5 @@
 ---
-title: Probe, Sense & Adapt Growth Strategy
+title: Probe, Sense & Adapt
 status: 🟡
 ---
 
