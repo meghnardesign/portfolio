@@ -33,4 +33,3 @@ The design of this fund is one small drop within a larger changing tide and is b
 Explore the principles →
 
 — Rithikha Rajamohan, *Research Lead*
-[New Constellations](https://newconstellations.co/)
